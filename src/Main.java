@@ -4,5 +4,6 @@ public class Main {
         System.out.println("fdfdg");
         System.out.println("fgfsk3");
         System.out.println("hot-fix");
+        System.out.println("master");
     }
 }
